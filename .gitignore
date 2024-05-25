@@ -3,3 +3,9 @@ node_modules
 ios/Pods
 ios/Podfile.lock
 yarn.lock
+ios/build
+package-lock.json
+yarn-error.log
+android/.gradle
+android/.idea
+android/local.properties
